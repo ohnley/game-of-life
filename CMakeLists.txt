@@ -12,6 +12,6 @@ add_executable(CLionTestProj
         src/Board.cpp
         include/Board.h
         src/Cell.cpp
-        include/Cell.h src/game_helper.cpp)
+        include/Cell.h src/game_helper.cpp include/game_helper.h)
 
 target_link_libraries(CLionTestProj Qt6::Widgets)

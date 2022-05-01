@@ -1,7 +1,6 @@
-#include "../include/Board.h"
-#include "../include/Cell.h"
-#include <iostream>
 
+#include "../include/Board.h"
+#include <iostream>
 
 const int REANIMATE_REQ = 3;
 const int UNDERPOP_THRESH = 2;
