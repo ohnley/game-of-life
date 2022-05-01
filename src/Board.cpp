@@ -3,7 +3,7 @@
 //
 #include <utility>
 #include <vector>
-#include "./Board.h"
+#include "../include/Board.h"
 
 // Constructors
 Board::Board(int number_of_rows, int number_of_cols) :

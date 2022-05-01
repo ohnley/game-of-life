@@ -2,7 +2,7 @@
 // Created by John Flatley on 4/28/22.
 //
 
-#include "./Cell.h"
+#include "../include/Cell.h"
 
 
 Cell::Cell(int col, int row, bool alive) {
